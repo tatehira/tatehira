@@ -66,6 +66,9 @@ https://img.shields.io/github/followers/tatehira.svg?style=social&label=Follower
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   </kbd>
+  <br>
+  <br>
+
   <kbd>
     <kbd>Operational Systems</kbd>
     <br>
@@ -82,6 +85,8 @@ https://img.shields.io/github/followers/tatehira.svg?style=social&label=Follower
     <img width="30px" src="https://cdn.icon-icons.com/icons2/779/PNG/512/wifi-1_icon-icons.com_64706.png" />
     <img width="30px" src="https://cdn.icon-icons.com/icons2/779/PNG/512/worldwide_icon-icons.com_64707.png" />
   </kbd>
+    <br>
+    <br>
 </p>
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
@@ -97,7 +102,7 @@ https://img.shields.io/github/followers/tatehira.svg?style=social&label=Follower
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tatehira&theme=holi-theme">
 </p>
 
-## Contact
+<h2 align="center"><u>Contact</u></h2>
 [![LinkedIn](https://cdn-icons-png.flaticon.com/512/3991/3991775.png)](https://www.linkedin.com/in/nick-tatehira/) 
 [![Telegram](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png)](https://t.me/nicktatehira) 
 [![LinkedIn](https://cdn-icons-png.flaticon.com/512/3991/3991775.png)](https://www.linkedin.com/in/nick-tatehira/) 
