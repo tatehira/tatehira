@@ -1,4 +1,4 @@
-## Me
+## About me
 
 - 🎓 Cursando Ciber Security;
 - 💻 Trabalhando na LBR.IT (Back-end);
