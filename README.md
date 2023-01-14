@@ -85,8 +85,6 @@ https://img.shields.io/github/followers/tatehira.svg?style=social&label=Follower
     <img width="30px" src="https://cdn.icon-icons.com/icons2/779/PNG/512/wifi-1_icon-icons.com_64706.png" />
     <img width="30px" src="https://cdn.icon-icons.com/icons2/779/PNG/512/worldwide_icon-icons.com_64707.png" />
   </kbd>
-    <br>
-    <br>
 </p>
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
