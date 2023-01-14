@@ -1,13 +1,11 @@
 ## Me
 
-- 🎓 Cursando Ciber Security
-- 💻 Trabalhando na LBR.IT (Back-end)
-- ⭐ 2023 objetivo criar projetos <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- ⚡ Amo desafios, aprendendo inglês e estudando Back-end
-- 🥈 Logo mais estudar Java e NodeJS
-- 🕶️ 22 anos (ele/dele)
-
-https://img.shields.io/github/followers/tatehira.svg?style=social&label=Followers)](https://github.com/tatehira?tab=followers)
+- 🎓 Cursando Ciber Security;
+- 💻 Trabalhando na LBR.IT (Back-end);
+- ⭐ 2023 objetivo criar projetos <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">;
+- ⚡ Amo desafios, aprendendo inglês e estudando Back-end;
+- 🥈 Logo mais estudar Java e NodeJS;
+- 🕶️ 22 anos (ele/dele);
 
 <p style="display: inline-block;" align="center">
   <kbd>
