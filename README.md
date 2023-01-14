@@ -1,14 +1,3 @@
-## Me
-
-- 🎓 Cursando Ciber Security
-- 💻 Trabalhando na LBR.IT (Back-end)
-- ⭐ 2023 objetivo criar projetos <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- ⚡ Amo desafios, aprendendo inglês e estudando Back-end
-- 🥈 Logo mais estudar Java e NodeJS
-- 🕶️ 22 anos (ele/dele)
-
-https://img.shields.io/github/followers/tatehira.svg?style=social&label=Followers)](https://github.com/tatehira?tab=followers)
-
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Programming languages</kbd>
@@ -64,7 +53,9 @@ https://img.shields.io/github/followers/tatehira.svg?style=social&label=Follower
   </kbd>
   <br>
   <br>
+</p>
 
+<p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Operational Systems</kbd>
     <br>
@@ -80,17 +71,4 @@ https://img.shields.io/github/followers/tatehira.svg?style=social&label=Follower
     <img width="30px" src="https://cdn-icons-png.flaticon.com/512/179/179696.png" />
     <img width="30px" src="https://cdn-icons-png.flaticon.com/512/1/1848.png" />
   </kbd>
-</p>
-
-![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
-
-<h2 align="center"><u>Meus Status do github</u></h2>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatehira&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
-<br>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tatehira&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
-<br>
-<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tatehira&theme=holi-theme">
 </p>
