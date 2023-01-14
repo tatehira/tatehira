@@ -74,12 +74,14 @@ https://img.shields.io/github/followers/tatehira.svg?style=social&label=Follower
     <img width="30px" src="https://cdn.icon-icons.com/icons2/70/PNG/512/ubuntu_14143.png" />
     <img width="30px" src="https://img.icons8.com/color/30/windows-10.png" />
   </kbd>
+  <kbd>
     <kbd>Networking</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.icon-icons.com/icons2/779/PNG/512/ethernet_icon-icons.com_64699.png" />
     <img width="30px" src="https://cdn.icon-icons.com/icons2/779/PNG/512/wifi-1_icon-icons.com_64706.png" />
     <img width="30px" src="https://cdn.icon-icons.com/icons2/779/PNG/512/worldwide_icon-icons.com_64707.png" />
+  <kbd>
 </p>
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
@@ -95,8 +97,8 @@ https://img.shields.io/github/followers/tatehira.svg?style=social&label=Follower
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tatehira&theme=holi-theme">
 </p>
 
-<h2 align="center"><u>Contact</u></h2>
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/3991/3991775.png)](https://www.linkedin.com/in/nick-tatehira/) 
-[![Telegram](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png)](https://t.me/nicktatehira) 
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/3991/3991775.png)](https://www.linkedin.com/in/nick-tatehira/) 
-[![LinkedIn](https://seeklogo.com/images/D/discord-icon-new-2021-logo-09772BF096-seeklogo.com.png)](https://discord.com/channels/Nick-Tatehira#0546) 
+<div>
+  <h2 align="center"><u>Contact e Social Midia</u></h2>
+    <a href="https://www.linkedin.com/in/nick-tatehira/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>
+    <a href="https://www.instagram.com/nickspeak_/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Instagram&color=lightpink&style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"></a>
+</div>
