@@ -53,10 +53,15 @@
   </kbd>
   <br>
   <br>
-</p>
 
-<p style="display: inline-block;" align="center">
   <kbd>
+    <kbd>Operational Systems</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn-icons-png.flaticon.com/512/179/179696.png" />
+    <img width="30px" src="https://cdn-icons-png.flaticon.com/512/1/1848.png" />
+    <img width="30px" src="https://cdn.icon-icons.com/icons2/779/PNG/512/worldwide_icon-icons.com_64707.png" />
+  </kbd>
     <kbd>Operational Systems</kbd>
     <br>
     <br>
@@ -64,11 +69,5 @@
     <img width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/debian_plain_logo_icon_146565.png" />
     <img width="30px" src="https://cdn.icon-icons.com/icons2/70/PNG/512/ubuntu_14143.png" />
     <img width="30px" src="https://img.icons8.com/color/30/windows-10.png" />
-  </kbd>
-    <kbd>Networking</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn-icons-png.flaticon.com/512/179/179696.png" />
-    <img width="30px" src="https://cdn-icons-png.flaticon.com/512/1/1848.png" />
   </kbd>
 </p>
