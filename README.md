@@ -51,6 +51,7 @@
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+    <img width="30px" src="https://icongr.am/devicon/vim-original.svg?size=128&color=currentColor" />
   </kbd>
   <kbd>
     <kbd>Tools</kbd>
