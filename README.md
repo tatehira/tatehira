@@ -43,6 +43,8 @@
     <kbd>Version Control & CI/CD</kbd>
     <br>
     <br>
+    <img width="30px" src="https://icons8.com.br/icon/4Z2nCrz5iPY2/github" />
+    <img width="30px" src="https://icons8.com.br/icon/xNOPrIk9lLyq/gitlab-project-planning-and-source-code-management" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
   </kbd>
