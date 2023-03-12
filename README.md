@@ -83,6 +83,12 @@
     <img width="30px" src="https://cdn.icon-icons.com/icons2/779/PNG/512/ethernet_icon-icons.com_64699.png" />
     <img width="30px" src="https://cdn.icon-icons.com/icons2/779/PNG/512/wifi-1_icon-icons.com_64706.png" />
     <img width="30px" src="https://cdn.icon-icons.com/icons2/779/PNG/512/worldwide_icon-icons.com_64707.png" />
+  <kbd>
+    <kbd>Platform Admin</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://icongr.am/devicon/moodle-original.svg?size=128&color=currentColor" />
+  </kbd>
 </p>
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
