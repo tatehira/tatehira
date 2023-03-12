@@ -8,7 +8,6 @@
 - 🕶️ 22 anos (ele/dele);
 
 <p style="display: inline-block;" align="center">
-  ## Programming skills
   <kbd>
     <kbd>Programming languages</kbd>
     <br>
