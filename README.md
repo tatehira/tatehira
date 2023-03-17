@@ -5,7 +5,7 @@
 - ⭐ 2023 objetivo criar projetos <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">;
 - ⚡ Amo desafios, aprendendo inglês e estudando Back-end;
 - 🥈 Logo mais estudar Java e NodeJS;
-- 🕶️ 22 anos (ele/dele);
+- 🕶️ 22 anos;
 
 <p style="display: inline-block;" align="center">
   <kbd>
