@@ -3,8 +3,7 @@
 - 🎓 Cursando Ciber Security;
 - 💻 Trabalhando na LBR.IT (Back-end);
 - ⭐ 2023 objetivo criar projetos <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">;
-- ⚡ Amo desafios, aprendendo inglês e estudando Back-end;
-- 🥈 Logo mais estudar Java e NodeJS;
+- ⚡ Amo desafios, aprendendo inglês, estudando Programação e Cyber Segurança;
 - 🕶️ 22 anos;
 
 <p style="display: inline-block;" align="center">
