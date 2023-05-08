@@ -45,7 +45,7 @@
     <kbd>Version Control & CI/CD</kbd>
     <br>
     <br>
-    <img width="30px" src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor" />
+    <img width="30px" src="[https://icongr.am/devicon/github-original.svg?size=128&color=currentColor](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)" />
     <img width="30px" src="https://icongr.am/devicon/gitlab-original.svg?size=128&color=currentColor" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
