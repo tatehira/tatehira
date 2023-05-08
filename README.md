@@ -98,7 +98,7 @@
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
-<h2 align="center"><u>Meus Status do github</u></h2>
+<h2 align="center"><u>My GitHub Status</u></h2>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatehira&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
 <br>
