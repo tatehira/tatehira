@@ -88,6 +88,7 @@
     <br>
     <br>
     <img width="30px" src="https://icongr.am/devicon/moodle-original.svg?size=128&color=currentColor" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" />
   </kbd>
 </p>
 
