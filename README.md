@@ -7,7 +7,6 @@
 
 <p style="display: inline-block;" align="center">
   <kbd>
-    ## Programming skills
     <kbd>Programming languages</kbd>
     <br>
     <br>
@@ -37,7 +36,8 @@
   </kbd>
   <br>
   <br>
- 
+  
+ <p style="display: inline-block;" align="center">
   ## DevOps Skills
   <kbd>
     <kbd>Version Control & CI/CD</kbd>
