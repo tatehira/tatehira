@@ -37,9 +37,9 @@
   <br>
   <br>
   
+  ## DevOps Skills
  <p style="display: inline-block;" align="center">
  <kbd>
-  ## DevOps Skills
   <kbd>
     <kbd>Version Control & CI/CD</kbd>
     <br>
