@@ -1,11 +1,11 @@
-## About me
+<h2 align="center"><u>About me</u></h2>
 - 🎓 Cursando Ciber Security;
 - 💻 Trabalhando na LBR.IT (Back-end);
 - ⭐ 2023 objetivo criar projetos <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">;
 - ⚡ Amo desafios, aprendendo inglês, estudando Programação e Cyber Segurança;
 - 🕶️ 22 anos;
 
-## Programming Skills
+<h2 align="center"><u>Programming</u></h2>
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Programming languages</kbd>
@@ -38,7 +38,7 @@
   <br>
   <br>
   
-  ## DevOps Skills
+  <h2 align="center"><u>DevOps</u></h2>
  <p style="display: inline-block;" align="center">
  <kbd>
   <kbd>
