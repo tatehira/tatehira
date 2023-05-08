@@ -1,4 +1,4 @@
-<h2 align="center"><u>About me</u></h2>
+## About me
 - 🎓 Cursando Ciber Security;
 - 💻 Trabalhando na LBR.IT (Back-end);
 - ⭐ 2023 objetivo criar projetos <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">;
