@@ -99,9 +99,8 @@
     <kbd>Tools</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
+    <img width="30px" src="https://img.icons8.com/?size=512&id=iGCCE2iEmh2u&format=png" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
   </kbd>
  </kbd>
 </p>
