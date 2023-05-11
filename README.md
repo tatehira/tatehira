@@ -41,7 +41,6 @@
   <h2 align="center"><u>DevOps</u></h2>
  <p style="display: inline-block;" align="center">
  <kbd>
-  <kbd>
     <kbd>Version Control & CI/CD</kbd>
     <br>
     <br>
@@ -50,7 +49,6 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
   </kbd>
- </kbd>
   <kbd>
     <kbd>Terminal Scripts</kbd>
     <br>
