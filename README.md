@@ -94,7 +94,6 @@
     <img width="30px" src="https://icongr.am/devicon/moodle-original.svg?size=128&color=currentColor" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" />
   </kbd>
- <kbd>
   <kbd>
     <kbd>Tools</kbd>
     <br>
@@ -102,7 +101,6 @@
     <img width="30px" src="https://img.icons8.com/?size=512&id=iGCCE2iEmh2u&format=png" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
   </kbd>
- </kbd>
 </p>
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
