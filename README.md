@@ -88,12 +88,22 @@
     <img width="30px" src="https://cdn.icon-icons.com/icons2/779/PNG/512/worldwide_icon-icons.com_64707.png" />
   </kbd>
    <kbd>
-    <kbd>Platform Admin</kbd>
+    <kbd>Open Source</kbd>
     <br>
     <br>
     <img width="30px" src="https://icongr.am/devicon/moodle-original.svg?size=128&color=currentColor" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" />
   </kbd>
+ <kbd>
+  <kbd>
+    <kbd>Tools</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
+  </kbd>
+ </kbd>
 </p>
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
