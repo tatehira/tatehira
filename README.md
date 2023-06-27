@@ -105,13 +105,6 @@
   </kbd>
 </p>
 
-<kbd>
-    <kbd>Cyber Security</kbd>
-    <br>
-    <br>
-    <img width="30px" src="" />
-  </kbd>
-
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
 <h2 align="center"><u>My GitHub Status</u></h2>
