@@ -73,8 +73,6 @@
     <br>
     <br>
     <img width="30px" src="https://img.icons8.com/color/30/linux.png" />
-    <img width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/debian_plain_logo_icon_146565.png" />
-    <img width="30px" src="https://cdn.icon-icons.com/icons2/70/PNG/512/ubuntu_14143.png" />
     <img width="30px" src="https://img.icons8.com/color/30/windows-10.png" />
   </kbd>
   <kbd>
