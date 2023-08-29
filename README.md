@@ -3,7 +3,7 @@
 - 💻 Trabalhando na LBR.IT (Back-end) e Hospital Julio Muller (Cyber Security);
 - ⭐ 2023 objetivo criar projetos <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">;
 - ⚡ Amo desafios, aprendendo inglês, estudando Programação e Cyber Segurança;
-- 🕶️ 22 anos; <br>
+- 🕶️ 22 anos; 
 
 <h2 align="center"><u>Programming</u></h2>
 <p style="display: inline-block;" align="center">
