@@ -1,8 +1,8 @@
 <h2 align="center"><u>About me</u></h2>
-- 🎓 Cursando Ciber Security; <br>
-- 💻 Trabalhando na LBR.IT (Back-end) e Hospital Julio Muller (Cyber Security); <br>
-- ⭐ 2023 objetivo criar projetos <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">; <br>
-- ⚡ Amo desafios, aprendendo inglês, estudando Programação e Cyber Segurança; <br>
+- 🎓 Cursando Ciber Security;
+- 💻 Trabalhando na LBR.IT (Back-end) e Hospital Julio Muller (Cyber Security);
+- ⭐ 2023 objetivo criar projetos <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">;
+- ⚡ Amo desafios, aprendendo inglês, estudando Programação e Cyber Segurança;
 - 🕶️ 22 anos; <br>
 
 <h2 align="center"><u>Programming</u></h2>
