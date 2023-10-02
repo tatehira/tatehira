@@ -27,13 +27,6 @@
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> 
-  </kbd>
-  <kbd>
-    <kbd>Database</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
   </kbd>
   <br>
   <br>
@@ -60,7 +53,6 @@
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
     <img width="30px" src="https://img.icons8.com/?size=512&id=iGCCE2iEmh2u&format=png" />
@@ -77,7 +69,7 @@
   </kbd>
   <kbd>
     <kbd>Networking</kbd>
-    <br>
+    <br>F
     <br>
     <img width="30px" src="https://cdn.icon-icons.com/icons2/779/PNG/512/ethernet_icon-icons.com_64699.png" />
     <img width="30px" src="https://cdn.icon-icons.com/icons2/779/PNG/512/wifi-1_icon-icons.com_64706.png" />
