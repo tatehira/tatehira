@@ -13,7 +13,6 @@
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" /> 
-    <img width="30px" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" />
   </kbd>
   <kbd>
     <kbd>Back-end</kbd>
