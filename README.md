@@ -11,6 +11,7 @@
     <kbd>Programming languages</kbd>
     <br>
     <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" /> 
   </kbd>
@@ -69,7 +70,7 @@
   </kbd>
   <kbd>
     <kbd>Networking</kbd>
-    <br>F
+    <br>
     <br>
     <img width="30px" src="https://cdn.icon-icons.com/icons2/779/PNG/512/ethernet_icon-icons.com_64699.png" />
     <img width="30px" src="https://cdn.icon-icons.com/icons2/779/PNG/512/wifi-1_icon-icons.com_64706.png" />
