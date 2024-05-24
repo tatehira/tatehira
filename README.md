@@ -2,7 +2,7 @@
 - 🎓 Cursando Ciber Security; <br>
 - 💻 Trabalhando na LBR.IT (Back-end); <br>
 - ⚡ Amo desafios, aprendendo inglês, estudando Programação e Cyber Segurança; <br>
-- 🕶️ 24 anos; <br>
+- 🕶️ 23 anos; <br>
 - ⭐ Upar nivel na programação e melhorar conceitos de Engenharia Reversa;
 
 
