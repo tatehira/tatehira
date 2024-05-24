@@ -3,7 +3,7 @@
 - 💻 Trabalhando na LBR.IT (Back-end); <br>
 - ⚡ Amo desafios, aprendendo inglês, estudando Programação e Cyber Segurança; <br>
 - 🕶️ 23 anos; <br>
-- ⭐ 2023 objetivo criar projetos <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">;
+- ⭐ Upar nivel na programação e melhorar conceitos de Engenharia Reversa;
 
 
 <h2 align="center"><u>Programming</u></h2>
