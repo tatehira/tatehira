@@ -1,10 +1,4 @@
 <h2 align="center"><u>About me</u></h2>
--🎓 Cursando Ciber Security; <br>
--💻 Trabalhando na LBR.IT (Back-end); <br>
--⚡ Amo desafios, aprendendo inglês, estudando Programação e Cyber Segurança; <br>
-
-- ⭐ Upar nivel na programação e melhorar conceitos de Engenharia Reversa;
-
 
 <h2 align="center"><u>Programming</u></h2>
 <p style="display: inline-block;" align="center">
