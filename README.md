@@ -1,110 +1,120 @@
 <h1 align="center">Nick Tatehira</h1>
-<h3 align="center">Backend Developer | Cyber Security | Engenharia de Computação</h3>
+<h3 align="center">Segurança da Informação | Engenheiro de Computação | Estatística (Em Andamento)</h3>
 
-<p align="center">
-  <b>25 anos</b> • <b>Brasil</b> 🇧🇷
+  <img src="https://img.shields.io/badge/Segurança-Avançada-red?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Security">
+  <img src="https://img.shields.io/badge/Estatística-Análise-green?style=for-the-badge&logo=python&logoColor=white" alt="Statistics">
 </p>
 
 <p align="center">
-  Olá! Sou um desenvolvedor de software apaixonado por tecnologia. Atuo há <b>4 anos como Backend Developer</b>, criando soluções robustas para o <b>agronegócio</b> (Agrix) e gestão pecuária. 
-  <br>Tenho também uma sólida bagagem em <b>Infraestrutura de Redes</b> e <b>Cyber Segurança</b>.
+  <b>Brasil</b> 🇧🇷
+</p>
+
+<br>
+
+<h2 align="center">⚡ Perfil Profissional</h2>
+
+<p align="justify">
+  <b>Desenvolvedor de Software</b>. Graduado em <b>Segurança da Informação</b> e Pós-graduado em <b>Engenharia de Computação</b>. Atualmente graduando em <b>Estatística</b>.
 </p>
 
 <p align="center">
-  🤖 <b>Empresa Virtual:</b> <a href="https://tatehira.dev">tatehira.dev</a><br>
-  💼 <b>Portfólio:</b> <a href="https://tatehira.github.io/Portifolio/">tatehira.github.io/Portifolio</a>
+  💼 <b>Portfólio Profissional:</b> <a href="https://tatehira.github.io/Portifolio/">tatehira.github.io/Portifolio</a>
 </p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nick-tatehira/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077b5&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/nick.cpp/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=Instagram&color=E4405F&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <a href="mailto:contact@tatehira.dev">
+    <img src="https://img.shields.io/badge/Email-Contate_me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
 
 <hr>
 
-<h2 align="center">🚀 Experiência e Projetos</h2>
+<h2 align="center">🎓 Excelência Acadêmica & Certificações</h2>
 
-<table align="center" border="0">
+<table align="center" border="0" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🏢 Carreira</h3>
+      <h3 align="center">🏛️ Graus Acadêmicos</h3>
       <ul>
-        <li><b>Backend Developer (4 anos):</b> Desenvolvimento de software para o setor Agrim (Agrix) e gestão pecuária.</li>
-        <li><b>Cyber Segurança (1 ano):</b> Experiência no Hospital Júlio Müller.</li>
-        <li><b>Analista de Redes (3 anos):</b> Gestão e infraestrutura de redes.</li>
+        <li>
+            <b>Pós-Graduação em Engenharia de Computação</b><br>
+            <i>Arquitetura Avançada & Integração Hardware-Software</i>
+        </li>
+        <li>
+            <b>Graduação em Segurança da Informação</b><br>
+            <i>Defesa de Redes, Criptografia & Gestão de Riscos</i>
+        </li>
+        <li>
+            <b>Graduação em Estatística</b> (Em Andamento)<br>
+            <i>Modelos Probabilísticos & Analytics</i>
+        </li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">💡 Projetos & Empreendedorismo</h3>
+      <h3 align="center">📜 Especializações</h3>
       <ul>
-        <li><b>Gestão de Dívidas:</b> <a href="https://dividas.neonproject.cloud/">dividas.neonproject.cloud</a></li>
-        <li><b>SaaS Barbearias:</b> Sistema de gestão completo (Desenvolvimento Solo).</li>
-        <li><b>Controle de Ouro:</b> Sistema para controle e venda de ouro (Desenvolvimento Solo).</li>
+         <li><b>Arquitetura de Software</b>: Design Patterns, Microsserviços, Escalabilidade.</li>
+         <li><b>Operações de Cibersegurança</b>: Análise de Ameaças, Testes de Intrusão (Pentest).</li>
+         <li><b>Análise de Infraestrutura</b>: Redes de Alta Disponibilidade.</li>
+         <li><b>Pesquisa (TCC)</b>: <i>Engenharia Reversa de Executáveis</i>.</li>
       </ul>
     </td>
   </tr>
 </table>
 
-<br>
-
-<h2 align="center">🎓 Formação Acadêmica</h2>
-<div align="center">
-  <p>🎓 <b>Pós-Graduação:</b> Engenharia de Computação</p>
-  <p>🎓 <b>Graduação:</b> Cyber Segurança</p>
-</div>
-
 <hr>
 
-<h2 align="center">🛠 Tech Stack</h2>
+<h2 align="center">🛠 Arsenal Tecnológico</h2>
 
 <div align="center">
-  <kbd>
-    <kbd>Backend & Core</kbd>
-    <br><br>
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" title=".NET" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" />
-  </kbd>
-  &nbsp;&nbsp;&nbsp;
-  <kbd>
-    <kbd>Frontend</kbd>
-    <br><br>
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" />
-  </kbd>
-  <br><br>
-  <kbd>
-    <kbd>DevOps & Infra</kbd>
-    <br><br>
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" title="Bash" />
-  </kbd>
+  <table align="center">
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" />
+        <br><b>C# / .NET</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" />
+        <br><b>Java</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+        <br><b>Python</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++" />
+        <br><b>C++</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
+        <br><b>Docker</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" />
+        <br><b>Segurança Linux</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" />
+        <br><b>React</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next" />
+        <br><b>Next.js</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+        <br><b>Git</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node" />
+        <br><b>Node.js</b>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br>
-
-<h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tatehira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatehira&layout=compact&theme=github_dark&langs_count=8&exclude_repo=kasweb"/>
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tatehira&theme=holi-theme" alt="Streak" />
-</div>
-
-<br>
-<p align="center">
-  <img src="https://github.com/tatehira/tatehira/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
