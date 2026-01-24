@@ -1,5 +1,5 @@
 <h1 align="center">Nick Tatehira</h1>
-<h3 align="center">Segurança da Informação | Engenheiro de Computação | Estatística (Em Andamento)</h3>
+<h3 align="center">Segurança da Informação | Engenheiro de Computação
 
 <p align="center">
   <b>Brasil</b> 🇧🇷
