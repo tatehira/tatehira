@@ -10,7 +10,7 @@
 <h2 align="center">⚡ Perfil Profissional</h2>
 
 <p align="justify">
-  <b>Desenvolvedor de Software</b>. Graduado em <b>Segurança da Informação</b> e Pós-graduado em <b>Engenharia de Computação</b>. Atualmente graduando em <b>Estatística</b>.
+  <b>Desenvolvedor de Software</b> com foco no agronegócio, Graduado em <b>Segurança da Informação</b> e Pós-graduado em <b>Engenharia de Computação</b>. Atualmente graduando em <b>Estatística</b>.
 </p>
 
 <p align="center">
