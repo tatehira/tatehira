@@ -1,5 +1,6 @@
 <h1 align="center">Nick Tatehira</h1>
 <h3 align="center">Segurança da Informação | Engenheiro de Computação | Estatística (Em Andamento)</h3>
+<h3 align="center">Segurança da Informação | Engenheiro de Computação
 
 <p align="center">
   <b>Brasil</b> 🇧🇷
@@ -10,7 +11,7 @@
 <h2 align="center">⚡ Perfil Profissional</h2>
 
 <p align="justify">
-  <b>Desenvolvedor de Software</b>. Graduado em <b>Segurança da Informação</b> e Pós-graduado em <b>Engenharia de Computação</b>. Atualmente graduando em <b>Estatística</b>.
+  <b>Desenvolvedor de Software</b> com foco no agronegócio, Graduado em <b>Segurança da Informação</b> e Pós-graduado em <b>Engenharia de Computação</b>. Atualmente graduando em <b>Estatística</b>.
 </p>
 
 <p align="center">
