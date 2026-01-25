@@ -1,10 +1,6 @@
 <h1 align="center">Nick Tatehira</h1>
 <h3 align="center">Segurança da Informação | Engenheiro de Computação | Estatística (Em Andamento)</h3>
 
-  <img src="https://img.shields.io/badge/Segurança-Avançada-red?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Security">
-  <img src="https://img.shields.io/badge/Estatística-Análise-green?style=for-the-badge&logo=python&logoColor=white" alt="Statistics">
-</p>
-
 <p align="center">
   <b>Brasil</b> 🇧🇷
 </p>
