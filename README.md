@@ -7,14 +7,14 @@
 
 <br>
 
-<h2 align="center">⚡ Perfil Profissional</h2>
+<h2 align="center"> Perfil Profissional</h2>
 
 <p align="justify">
   <b>Desenvolvedor de Software</b> com foco no agronegócio, Graduado em <b>Segurança da Informação</b> e Pós-graduado em <b>Engenharia de Computação</b>. Atualmente graduando em <b>Estatística</b>.
 </p>
 
 <p align="center">
-  💼 <b>Portfólio Profissional:</b> <a href="https://tatehira.github.io/Portifolio/">tatehira.github.io/Portifolio</a>
+  <b>Portfólio Profissional:</b> <a href="https://tatehira.github.io/Portifolio/">tatehira.github.io/Portifolio</a>
 </p>
 
 <div align="center">
@@ -28,7 +28,7 @@
 
 <hr>
 
-<h2 align="center">🎓 Excelência Acadêmica & Certificações</h2>
+<h2 align="center"> Excelência Acadêmica & Certificações</h2>
 
 <table align="center" border="0" width="100%">
   <tr>
@@ -50,7 +50,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📜 Especializações</h3>
+      <h3 align="center">Especializações</h3>
       <ul>
          <li><b>Arquitetura de Software</b>: Design Patterns, Microsserviços, Escalabilidade.</li>
          <li><b>Operações de Cibersegurança</b>: Análise de Ameaças, Testes de Intrusão (Pentest).</li>
@@ -63,7 +63,7 @@
 
 <hr>
 
-<h2 align="center">🛠 Arsenal Tecnológico</h2>
+<h2 align="center"> Arsenal Tecnológico</h2>
 
 <div align="center">
   <table align="center">
