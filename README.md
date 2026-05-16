@@ -1,16 +1,20 @@
 <h1 align="center">Nick Tatehira</h1>
-<h3 align="center">Segurança da Informação | Engenheiro de Computação
+<h3 align="center">Engenheiro de Computação Sênior | Especialista em Segurança da Informação</h3>
 
 <p align="center">
-  <b>Brasil</b> 🇧🇷
+  <b>Cuiabá, Mato Grosso, Brasil</b> 🇧🇷
 </p>
 
 <br>
 
-<h2 align="center"> Perfil Profissional</h2>
+<h2 align="center">🏢 Perfil Profissional & Atuação Atual</h2>
 
 <p align="justify">
-  <b>Desenvolvedor de Software</b> com foco no agronegócio, Graduado em <b>Segurança da Informação</b> e Pós-graduado em <b>Engenharia de Computação</b>. Atualmente graduando em <b>Estatística</b> na UFMT.
+  Engenheiro de Computação Sênior focado no desenvolvimento de sistemas de alta escalabilidade, arquitetura de software e segurança cibernética. Com sólida bagagem em criptografia, defesa de redes e engenharia reversa, atuo diretamente na modernização tecnológica, governança de dados e infraestrutura crítica voltada ao controle interno do setor público.
+</p>
+
+<p align="justify">
+  Atualmente, componho o corpo técnico da <b>Controladoria-Geral do Estado de Mato Grosso (CGE-MT)</b> como <b>Engenheiro de Computação Sênior</b>, aplicando inteligência computacional, auditoria contínua de dados massivos e automação avançada para garantir a integridade, transparência e eficiência na gestão dos recursos públicos estaduais.
 </p>
 
 <p align="center">
@@ -28,7 +32,7 @@
 
 <hr>
 
-<h2 align="center"> Excelência Acadêmica & Certificações</h2>
+<h2 align="center">🎓 Formação Acadêmica & Especializações</h2>
 
 <table align="center" border="0" width="100%">
   <tr>
@@ -44,18 +48,18 @@
             <i>Defesa de Redes, Criptografia & Gestão de Riscos</i>
         </li>
         <li>
-            <b>Graduação em Estatística</b> (Em Andamento)<br>
-            <i>Modelos Probabilísticos & Analytics</i>
+            <b>Graduação em Estatística</b> (UFMT — Em Andamento)<br>
+            <i>Modelos Probabilísticos, Analytics & Ciência de Dados</i>
         </li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Especializações</h3>
+      <h3 align="center">⚡ Core Competencies</h3>
       <ul>
-         <li><b>Arquitetura de Software</b>: Design Patterns, Microsserviços, Escalabilidade.</li>
-         <li><b>Operações de Cibersegurança</b>: Análise de Ameaças, Testes de Intrusão (Pentest).</li>
-         <li><b>Análise de Infraestrutura</b>: Redes de Alta Disponibilidade.</li>
-         <li><b>Pesquisa (TCC)</b>: <i>Engenharia Reversa de Executáveis</i>.</li>
+         <li><b>Arquitetura de Software:</b> APIs RESTful, Escalabilidade, Padrões de Projeto e Integração de Sistemas de Grande Porte.</li>
+         <li><b>Cibersegurança e Defesa:</b> Segurança da Informação, Criptografia, Análise de Vulnerabilidades e Auditoria de Código.</li>
+         <li><b>Engenharia de Dados:</b> Processamento de dados massivos, cruzamento de bases complexas e automação de auditorias.</li>
+         <li><b>Pesquisa & Inteligência:</b> Especialista em <i>Engenharia Reversa de Executáveis</i>.</li>
       </ul>
     </td>
   </tr>
@@ -63,37 +67,33 @@
 
 <hr>
 
-<h2 align="center"> Arsenal Tecnológico</h2>
+<h2 align="center">🛠️ Ecossistema Tecnológico</h2>
 
 <div align="center">
   <table align="center">
     <tr>
       <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" />
+        <br><b>Java</b>
+      </td>
+      <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" />
         <br><b>C# / .NET</b>
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" />
-        <br><b>Java</b>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
+        <br><b>Docker</b>
       </td>
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
         <br><b>Python</b>
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++" />
-        <br><b>C++</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
-        <br><b>Docker</b>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" />
         <br><b>Segurança Linux</b>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" />
         <br><b>React</b>
@@ -103,14 +103,17 @@
         <br><b>Next.js</b>
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
-        <br><b>Git</b>
-      </td>
-      <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node" />
         <br><b>Node.js</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++" />
+        <br><b>C++</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+        <br><b>Git</b>
       </td>
     </tr>
   </table>
 </div>
-
