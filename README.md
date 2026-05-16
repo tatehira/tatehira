@@ -1,5 +1,5 @@
 <h1 align="center">Nick Tatehira</h1>
-<h3 align="center">Engenheiro de Computação Sênior | Especialista em Segurança da Informação</h3>
+<h3 align="center">Engenheiro de Computação Sênior</h3>
 
 <p align="center">
   <b>Cuiabá, Mato Grosso, Brasil</b> 🇧🇷
@@ -10,11 +10,11 @@
 <h2 align="center">🏢 Perfil Profissional & Atuação Atual</h2>
 
 <p align="justify">
-  Engenheiro de Computação Sênior focado no desenvolvimento de sistemas de alta escalabilidade, arquitetura de software e segurança cibernética. Com sólida bagagem em criptografia, defesa de redes e engenharia reversa, atuo diretamente na modernização tecnológica, governança de dados e infraestrutura crítica voltada ao controle interno do setor público.
+  Engenheiro de Computação Sênior com sólida bagagem em desenvolvimento de sistemas, arquitetura de software e segurança da informação. Atuo na construção de soluções robustas, integração de sistemas e governança de dados, unindo conhecimentos técnicos de engenharia com as melhores práticas de proteção de ativos digitais.
 </p>
 
 <p align="justify">
-  Atualmente, componho o corpo técnico da <b>Controladoria-Geral do Estado de Mato Grosso (CGE-MT)</b> como <b>Engenheiro de Computação Sênior</b>, aplicando inteligência computacional, auditoria contínua de dados massivos e automação avançada para garantir a integridade, transparência e eficiência na gestão dos recursos públicos estaduais.
+  Atualmente, componho o corpo técnico da <b>Controladoria-Geral do Estado de Mato Grosso (CGE-MT)</b> como <b>Engenheiro de Computação Sênior</b>, aplicando inteligência computacional, processamento de dados massivos e automação para garantir a integridade, transparência e eficiência na gestão dos recursos públicos estaduais.
 </p>
 
 <p align="center">
@@ -56,10 +56,10 @@
     <td width="50%" valign="top">
       <h3 align="center">⚡ Core Competencies</h3>
       <ul>
-         <li><b>Arquitetura de Software:</b> APIs RESTful, Escalabilidade, Padrões de Projeto e Integração de Sistemas de Grande Porte.</li>
-         <li><b>Cibersegurança e Defesa:</b> Segurança da Informação, Criptografia, Análise de Vulnerabilidades e Auditoria de Código.</li>
-         <li><b>Engenharia de Dados:</b> Processamento de dados massivos, cruzamento de bases complexas e automação de auditorias.</li>
-         <li><b>Pesquisa & Inteligência:</b> Especialista em <i>Engenharia Reversa de Executáveis</i>.</li>
+         <li><b>Arquitetura de Software:</b> Desenvolvimento focado em C#/.NET e Java, criação de APIs RESTful e escalabilidade.</li>
+         <li><b>Segurança da Informação:</b> Conhecimentos fundamentais em criptografia, análise de vulnerabilidades e segurança aplicada ao desenvolvimento.</li>
+         <li><b>Engenharia de Dados:</b> Processamento de dados, cruzamento de bases heterogêneas e automação de fluxos de auditoria.</li>
+         <li><b>Pesquisa Acadêmica:</b> Estudo focado em <i>Engenharia Reversa de Executáveis</i>.</li>
       </ul>
     </td>
   </tr>
